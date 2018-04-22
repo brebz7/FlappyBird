@@ -1,0 +1,8 @@
+﻿  PipeManager.cpp
+c:\dev\flappybird\flappybird\flappybird\pipemanager.cpp(105): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\dev\flappybird\flappybird\flappybird\pipemanager.cpp(106): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+SOIL.lib(image_DXT.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'SOIL.lib(image_DXT.obj)' or at 'C:\Dev\FlappyBird\Debug\SOIL.pdb'; linking object as if no debug info
+SOIL.lib(image_helper.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'SOIL.lib(image_helper.obj)' or at 'C:\Dev\FlappyBird\Debug\SOIL.pdb'; linking object as if no debug info
+SOIL.lib(SOIL.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'SOIL.lib(SOIL.obj)' or at 'C:\Dev\FlappyBird\Debug\SOIL.pdb'; linking object as if no debug info
+SOIL.lib(stb_image_aug.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'SOIL.lib(stb_image_aug.obj)' or at 'C:\Dev\FlappyBird\Debug\SOIL.pdb'; linking object as if no debug info
+  FlappyBird.vcxproj -> C:\Dev\FlappyBird\Debug\FlappyBird.exe
